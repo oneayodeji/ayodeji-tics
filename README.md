@@ -24,9 +24,11 @@ When I'm not working with data, I enjoy working out, playing soccer, learning ho
 - Evaluated ticket volume, resolution time, and agent performance
 - Identified bottlenecks in ticket resolution workflow
 - Reduced average resolution time by 67%
+
 **Project B:** Operational KPI Scorecard
 - Built KPI framework for tracking efficiency and cost savings
 - Achieved $145K cost savings through process optimization
+
 **Content Creation:** Working on Developing workout plans and tutorial videos - Monthly insights on body fat changes, strength progesssion 
 
 ## 🌱 Currently Learning 
